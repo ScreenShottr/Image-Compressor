@@ -36,7 +36,7 @@ public class ImageCompressor extends JFrame implements ActionListener {
     JPanel pane = new JPanel();
     JButton compress = new JButton("Compress Image");
 
-    double Version = 2.0;
+    double Version = 1.0;
     String Author = "ScreenShottr";
 
     ImageCompressor() {
